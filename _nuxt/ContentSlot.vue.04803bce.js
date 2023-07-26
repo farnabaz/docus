@@ -1,0 +1,1 @@
+import{r as n}from"./slot.293c9e73.js";import{d as o}from"./entry.dcfdec0c.js";const s=o({__name:"ContentSlot",props:{use:{type:Function,default:void 0},unwrap:{type:[Boolean,String],default:!1}},setup(e){return(t,r)=>n(t.$slots,"default",{use:e.use,unwrap:e.unwrap})}});export{s as _};
