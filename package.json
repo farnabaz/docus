@@ -10,15 +10,15 @@
     "lint": "eslint ."
   },
   "overrides": {
-     "@nuxt/content": "npm:@nuxt/content-edge@2.7.2-28174122.1fef213"
+     "@nuxt/content": "npm:@nuxt/content-edge@2.7.2-28221945.0fdcc51"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.12.1",
-    "@nuxt/devtools": "^0.5.5",
-    "@nuxt/eslint-config": "^0.1.1",
-    "@nuxtjs/plausible": "^0.2.1",
-    "@types/node": "^20.2.5",
-    "eslint": "^8.42.0",
-    "nuxt": "^3.5.3"
+    "@nuxt-themes/docus": "^1.15.0",
+    "@nuxt/devtools": "^0.8.5",
+    "@nuxt/eslint-config": "^0.6.0",
+    "@nuxtjs/plausible": "^0.2.4",
+    "@types/node": "^20.17.0",
+    "eslint": "^8.57.1",
+    "nuxt": "^3.13.2"
   }
 }
